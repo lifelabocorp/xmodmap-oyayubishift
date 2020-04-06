@@ -1,0 +1,5 @@
+keycode 48 = BackSpace BackSpace
+keycode 34 = colon asterisk
+keycode 51 = at grave
+keycode 22 = bracketright braceright
+keycode 132 = yen bar
